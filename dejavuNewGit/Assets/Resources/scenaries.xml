@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ArrayOfScenario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Scenario>
+    <Key>w000</Key>
+    <Text>Olololo</Text>
+  </Scenario>
+  <Scenario>
+    <Key>w001</Key>
+    <Text>BHjbikfv</Text>
+  </Scenario>
+</ArrayOfScenario>
